@@ -280,7 +280,7 @@
     <repository>
       <id>maven-releases</id>
       <name>Maven Releases</name>
-      <url>https://kizzy-endoparasitic-mardell.ngrok-free.dev</url>
+      <url>https://kizzy-endoparasitic-mardell.ngrok-free.dev/repository/maven-releases/</url>
       <snapshots>
         <enabled>false</enabled>
       </snapshots>
